@@ -1,2 +1,2 @@
 # microservices-node
-Hands-On Microservices with NodeJS book
+Book "Hands-On Microservices with NodeJS"
